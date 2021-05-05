@@ -13,7 +13,7 @@
 
 # demo
 
-![demo](./chatroom_demo.mov)
+![demo](./chatroom_demo.gif)
 
 # 后续
 
